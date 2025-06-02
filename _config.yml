@@ -8,6 +8,8 @@ widgets:
 - tag
 - archive
 
+theme:light
+
 excerpt_link: Read More
 
 twitter:
